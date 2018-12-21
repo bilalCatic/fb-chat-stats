@@ -1,0 +1,64 @@
+{
+    "participants": [
+      {
+        "name": "User 1"
+      },
+      {
+        "name": "User 2"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "User 2",
+        "timestamp_ms": 1443079990909,
+        "content": "Message 1",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "User 1",
+        "timestamp_ms": 1443079959161,
+        "content": "OMessage 2",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "User 2",
+        "timestamp_ms": 1443079935640,
+        "content": "Message 3",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "User 1",
+        "timestamp_ms": 1443079920389,
+        "content": "Message 4",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "User 1",
+        "timestamp_ms": 1443079911097,
+        "content": "Message 5",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "User 2",
+        "timestamp_ms": 1443079831703,
+        "content": "Message 6",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "User 1",
+        "timestamp_ms": 1443079810081,
+        "content": "Message 7",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "User 2",
+        "timestamp_ms": 1443079661292,
+        "content": "Message 8",
+        "type": "Generic"
+      }
+    ],
+    "title": "User 1",
+    "is_still_participant": true,
+    "thread_type": "Regular",
+    "thread_path": "inbox/nameOfChat"
+  }
