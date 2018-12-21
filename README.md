@@ -12,3 +12,8 @@ Get messages count from fb chat
 ```
 
 You can try out on existing message.json, included for example. Just execute `python stats.py`
+
+## To-Do
+
+- Sort stats
+- Format nicely 
